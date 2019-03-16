@@ -1,0 +1,32 @@
+.container {
+	background-image: url("./images/sky-series-erick.jpg");
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+body p, ul, li{
+	margin-right: 20px;
+	margin-left: 20px;
+	font-family: 'Sniglet','cursive';
+}
+.container img{
+	max-width: 300px;
+	max-height: 150px;
+	width: auto;
+	height: auto;
+	align: middle;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+section.container-titulo h1, h2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-family: 'Pacifico', cursive;
+	
+}
+
